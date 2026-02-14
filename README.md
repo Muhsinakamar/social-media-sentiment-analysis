@@ -29,3 +29,14 @@ How to Run:
 Run:
 
 python sentiment_analysis.py
+
+Future Improvements:
+
+1. Hyperparameter tuning
+
+2. Adding n-grams
+
+3. Support Vector Machine (SVM)
+
+4. Deep Learning models (LSTM)
+
